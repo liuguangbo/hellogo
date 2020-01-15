@@ -8,7 +8,7 @@ var ClientSet *kubernetes.Clientset
 
 func main() {
 	ClientSet = InitClientSet()
-	fmt.println("hello")
+	fmt.println("hello world")
 	router := InitRouter()
 	router.Run(":8888")
 }
