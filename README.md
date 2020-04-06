@@ -1,5 +1,2 @@
 # hellogo
-学习如何使用github
-third commit
-
-what happend!
+go 基本语法
